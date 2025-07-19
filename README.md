@@ -4,7 +4,7 @@ This project focuses on detecting financial fraud using supervised machine learn
 
 ## 📊 Project Overview
 
-We built and compared multiple classification models to detect fraudulent transactions. The data underwent a full preprocessing pipeline including:
+I built and compared multiple classification models to detect fraudulent transactions. The data underwent a full preprocessing pipeline including:
 
 - Date/time conversion to POSIXct for time-based analysis
 - Categorical to factor conversion
